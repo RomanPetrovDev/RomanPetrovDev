@@ -2,13 +2,6 @@
 
 <h3 align="center">Frontend Developer</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B%20years-dd0031?style=for-the-badge" alt="Experience" />
-  <img src="https://img.shields.io/badge/Focus-Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Language-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/English-B1-2ea44f?style=for-the-badge" alt="English B1" />
-</p>
-
 ---
 
 ## 👨‍💻 About me
