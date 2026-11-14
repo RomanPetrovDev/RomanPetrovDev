@@ -57,22 +57,6 @@ Frontend developer with 4+ years of experience, mostly in **Angular**. I build c
 
 ---
 
-## 🎓 Education
-
-**Bachelor's degree, Software Development**, Tomsk State University of Control Systems and Radioelectronics (TUSUR), 2026
-
----
-
-## 📫 Contact
-
-<p>
-  <a href="https://t.me/Wailoks">
-    <img src="https://img.shields.io/badge/Telegram-@Wailoks-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
