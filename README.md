@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Roman 👋</h1>
 
-<h3 align="center">Frontend Developer · Angular · AI-assisted development</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-4%2B%20years-dd0031?style=for-the-badge" alt="Experience" />
