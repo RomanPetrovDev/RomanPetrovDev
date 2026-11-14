@@ -18,6 +18,7 @@ Frontend developer with 4+ years of experience, mostly in **Angular**. I build c
 
 ## 🛠️ Tech stack
 
+
 **Languages & markup**
 
 <p>
